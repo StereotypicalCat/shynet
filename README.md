@@ -14,6 +14,8 @@
 
 ## Motivation
 
+This was forked so I could get it running on the pi :)
+
 There are a _lot_ of web analytics tools. Unfortunately, most of them come with the following caveats:
 
 * They require handing all of your visitors' info to a third-party company
