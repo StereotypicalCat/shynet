@@ -1,4 +1,3 @@
-
 <p align="center">
   <img align="center" src="images/logo.png" height="50" alt="Shynet logo">
   <br>
